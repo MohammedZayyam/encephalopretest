@@ -1,5 +1,5 @@
-# Encephalo Investments - Quantitative Developer Pre-Test
-## William Risher
+# ElDiablo Investments - Quantitative Developer Pre-Test
+## Mohammed Zayyam
 
 # Part 1: git
 - fork this repository
