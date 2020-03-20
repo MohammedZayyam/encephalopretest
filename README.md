@@ -1,4 +1,4 @@
-# ElDiablo Investments - Quantitative Developer Pre-Test
+# Encephalo Investments - Quantitative Developer Pre-Test
 ## Mohammed Zayyam
 
 # Part 1: git
